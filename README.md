@@ -8,7 +8,7 @@ The survey was conducted by vendor via telephone between February 15 to March 24
 
 - [Click here](https://colab.research.google.com/drive/16jN5pbvAwbe141f1FOvTwKW3stZ4gpF2?usp=sharing) to view my previous project. (Right click to open in new tab) to gain viewer access to the Colab Notebook.
 
-# Methodology
+## Current Project
 
 The scope of this project is to generate a Contact List (CL) for vendor, to conduct the telephone survey. The vendor will use the CL to contact providers' office and collect providers appointment date and time availability for Measurement Year (MY) 2023.
 
@@ -16,6 +16,8 @@ Please note, the raw data used in this project is downloaded from Center of Medi
 
 Source:
 [1] https://data.cms.gov/provider-data/dataset/mj5m-pzi6
+
+# Methodology
 
 This program will analyze the data downloaded from CMS website and generate the Contact List.
 
